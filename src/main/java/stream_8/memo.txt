@@ -1,0 +1,5 @@
+Iterable            -> forEach(), iterator()
+    ㅣ   상속
+Collection          ->
+    ㅣ   상속
+List, Set
